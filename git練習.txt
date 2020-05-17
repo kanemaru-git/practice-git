@@ -1,1 +1,4 @@
 Hello world
+
+gitの使い方
+add commit push
