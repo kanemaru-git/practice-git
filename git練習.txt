@@ -1,4 +1,6 @@
-Hello world
-
 gitの使い方
 add commit push
+
+commitでコメントし忘れた時
+立ち上がったエディタの一行目がコメント
+コメント書いた後、esc（エスケープ）からの:wq!でok
