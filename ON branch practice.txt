@@ -1,0 +1,6 @@
+branchの説明
+git branch 			ローカルブランチ表示
+git branch -r　			リモートブランチ表示
+git branch -a			どっちも表示
+git branch 'ブランチ名'		ブランチ作成
+git checkout 'ブランチ名'	ブランチ変更
