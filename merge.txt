@@ -1,0 +1,5 @@
+master branch に他のブランチを統合
+git merge ブランチ名
+
+このファイルはpracticeブランチで作ったが
+mergeすることによってmasterに統合される
