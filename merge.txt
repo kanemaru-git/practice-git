@@ -3,3 +3,5 @@ git merge ブランチ名
 
 このファイルはpracticeブランチで作ったが
 mergeすることによってmasterに統合される
+
+fetch用の追加　github上で変更しました。
